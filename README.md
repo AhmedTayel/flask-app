@@ -20,3 +20,5 @@ Flask's cmd instance sometimes lags after booting, if the first time you press g
 If running `pipenv shell` starts to create a new environment, you'll need to run `pipenv update` for the application to work.
 
 ![demo](/demo.gif)
+
+The feature to sign in is not functional, there is no User model, some delays were added to imitate the experience of signing in.
