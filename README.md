@@ -9,7 +9,8 @@ Webapp using Flask and React to calculate the percentage of an inputted number r
   * Run `pipenv update`
   * Run `python app.py`
 
-Server should be up on port 5000.
+Server should be up on port 5000. 
+Make sure python version is 3.9 on your machine.
 
  * Navigate to UI directory and start a cmd instance
  * Run `npm install`
