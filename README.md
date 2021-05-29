@@ -16,3 +16,7 @@ Server should be up on port 5000.
  * Run `npm run start` 
 
 Flask's cmd instance sometimes lags after booting, if the first time you press generate nothing happens, open the cmd for flask's server and select it, and press enter.
+
+If running `pipenv shell` starts to create a new environment, you'll need to run `pipenv update` for the application to work.
+
+![demo](/demo.gif)
